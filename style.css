@@ -1,0 +1,24 @@
+
+.start-container{
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), url(./images/praia_ex.webp) center / cover no-repeat; 
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+
+.start-container input, .start-container button{
+    padding: .75rem;
+}
+
+
+.card img{
+    object-fit: cover;
+    object-position: center;
+    aspect-ratio: 1 / 1; 
+    width: 60%;
+    
+    
+}
+
+.info-destiny-container{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(./images/destiny-img.webp) center / cover no-repeat;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
